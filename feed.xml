@@ -4,10 +4,17 @@
     <title>Old School RuneScape Ironmen &amp; Raids Guild</title>
     <link>https://osrs-ironmen-raids-guild.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 06:08:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:57:23 GMT</lastBuildDate>
     <atom:link href="https://osrs-ironmen-raids-guild.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                    <item>
+                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/osrs-ironmen-raids-guild/#osrs-ironmen-raids-guild-forum-20261019-1-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:57:23 GMT</pubDate>
+      <description>Newly verified community added to Old School RuneScape Ironmen &amp; Raids Guild: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/osrs-ironmen-raids-guild/#osrs-ironmen-raids-guild-forum-20261019-1-2026-10-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/osrs-ironmen-raids-guild/#osrs-ironmen-raids-guild-github-20260927-1-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 06:08:23 GMT</pubDate>
       <description>Newly verified community added to Old School RuneScape Ironmen &amp; Raids Guild: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Tailwind CSS Discord (Discord)</title>
-      <link>https://discord.gg/tailwind</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/osrs-ironmen-raids-guild/#osrs-ironmen-raids-guild-discord-20260925-1-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 06:08:40 GMT</pubDate>
-      <description>Newly verified community added to Old School RuneScape Ironmen &amp; Raids Guild: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
     </item>
   </channel>
 </rss>
